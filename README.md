@@ -3,7 +3,7 @@
 ## Capstone Intermedio 2026
 
 **Equipo:** EcoFab Lab  
-**Desafío:** 05 | Sostenibilidad - Circularidad y manejo de residuos de fabricaci贸n digital  
+**Desafío:** 05 | Sostenibilidad - Circularidad y manejo de residuos de fabricación digital  
 **Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
 **Estado actual:** En desarrollo
 
@@ -17,10 +17,10 @@ El equipo busca identificar un flujo de residuos que actualmente presente dificu
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| José Obrecht Egaña | [Por completar] | Coordinación y seguimiento | [@usuario] |
-| Marco Díaz Estrada | [Por completar] | Investigación y diagnóstico | [@usuario] |
-| Piero Valdivia Meneses| [Por completar] | Diseño y prototipado | [@usuario] |
-| Paulo García Arce | [Por completar] | Documentación y análisis | [@usuario] |
+| José Obrecht Egaña | Ingeniería Civil Indsutrial | Coordinación y seguimiento | [@usuario] |
+| Marco Díaz Estrada | Ingeniería Civil en Computación e Informática | Investigación y diagnóstico | [@usuario] |
+| Piero Valdivia Meneses| Ingeniería Civil en Computación e Informática | Diseño y prototipado | piierv |
+| Paulo García Arce | Ingeniería Civil en Computación e Informática | Documentación y análisis | [@usuario] |
 
 ## Valores del equipo
 
@@ -115,8 +115,8 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
-| [Por completar] | Conformación del equipo y distribución de roles | Reunión inicial de Capstone |
-| [Por completar] | Abordar residuos de fabricación digital con foco en los flujos de mayor dificultad | Ficha del Desafío 05 |
+| 20.08.2026 | Conformación del equipo y distribución de roles | Reunión inicial de Capstone |
+| 20.08.2026 | Abordar residuos de fabricación digital con foco en los flujos de mayor dificultad | Ficha del Desafío 05 |
 
 ## Próximo hito
 
