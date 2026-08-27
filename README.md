@@ -103,7 +103,8 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 
 ## Índice de la bitácora
 
-- [S01 - Identidad del equipo y desafío](bitacora/S01.md)
+- [S02 - Identidad del equipo y desafío](bitacora/S02.md)
+- [S03 - Mapa conceptual y de empatía](bitacora/S03.md)
 
 ## Evidencias principales
 
