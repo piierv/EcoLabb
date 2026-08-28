@@ -108,7 +108,8 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 
 ## Evidencias principales
 
-- Foto del equipo: `imagenes/S01/foto_equipo.jpg`
+- Foto del equipo: ![Foto del equipo](../imagenes/S02/foto_equipo.jpg)
+
 - Evidencias del diagnóstico: por agregar.
 - Evidencias del prototipo/piloto: por agregar.
 
