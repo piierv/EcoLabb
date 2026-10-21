@@ -153,6 +153,7 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 
 - [S02 - Identidad del equipo y desafío](bitacora/S02.md)
 - [S03 - Comprensión del problema: mapa conceptual y mapa de empatía](bitacora/S03.md)
+- [S04 - Comprensión del problema: mapa conceptual y mapa de empatía](bitacora/S04.md)
 
 ---
 
