@@ -34,7 +34,7 @@ La intención es seleccionar una alternativa técnicamente viable, fundamentada 
 | José Obrecht Egaña | Ingeniería Civil Industrial | Coordinación y seguimiento | [@usuario] |
 | Marco Díaz Estrada | Ingeniería Civil en Computación e Informática | Investigación y diagnóstico | [@usuario] |
 | Piero Valdivia Meneses | Ingeniería Civil en Computación e Informática | Diseño y prototipado | piierv |
-| Paulo García Arce | Ingeniería Civil en Computación e Informática | Documentación y análisis | [@usuario] |
+| Paulo García Arce | Ingeniería Civil en Computación e Informática | Documentación y análisis | yelol123 |
 
 ---
 
