@@ -8,6 +8,11 @@
 **Estado actual:** Etapa de comprensión, diagnóstico y análisis de alternativas  
 **Última sesión registrada:** S10 - 15.10.2026
 
+<p align="center">
+  <img src="./imagenes/S02/foto_equipo.jpg" alt="Fotografía grupal del equipo EcoLab" width="700">
+</p>
+
+<p align="center"><em>Equipo EcoFab.</em></p>
 ---
 
 ## Descripción
@@ -27,12 +32,6 @@ La intención es seleccionar una alternativa técnicamente viable, fundamentada 
 ---
 
 ## Equipo
-
-<p align="center">
-  <img src="./imagenes/S02/foto_equipo.jpg" alt="Fotografía grupal del equipo EcoLab" width="700">
-</p>
-
-<p align="center"><em>Equipo EcoFab.</em></p>
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
