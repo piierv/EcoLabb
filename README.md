@@ -1,4 +1,3 @@
-A
 # EcoFab Lab - Bitácora Capstone
 
 ## Capstone Intermedio 2026
