@@ -29,7 +29,7 @@ La intención es seleccionar una alternativa técnicamente viable, fundamentada 
 ## Equipo
 
 <p align="center">
-  <img src="./imagenes/S02/foto_equipo.jpg" alt="Fotografía grupal del equipo EcoFab Lab durante la visita al Hub Providencia" width="700">
+  <img src="./imagenes/S02/foto_equipo.jpg" alt="Fotografía grupal del equipo EcoLab" width="700">
 </p>
 
 <p align="center"><em>Equipo EcoFab Lab durante la visita al Hub Providencia.</em></p>
