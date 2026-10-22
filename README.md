@@ -179,3 +179,10 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 - [S08 - Reflexión con los datos: análisis y viabilidad de la solución](bitacora/S08.md)
 - [S09 - Nuevas dudas y consultas a la contraparte (Hub Providencia)](bitacora/S09.md)
 - [S10 - Continuidad del paro universitario](bitacora/S10.md)
+
+---
+## Uso y licencia
+
+Este proyecto fue desarrollado por el equipo EcoFab Lab para fines académicos en la asignatura Capstone Intermedio 2026 de la Universidad Mayor.
+
+**Licencia:** Por definir.
