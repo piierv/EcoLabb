@@ -1,25 +1,45 @@
-# EcoFab Lab - Bitácora Capstone
+# EcoFab Lab | Bitácora Capstone 2026
 
-## Capstone Intermedio 2026
-
-**Equipo:** EcoFab Lab  
-**Desafío:** 05 | Sostenibilidad - Circularidad y manejo de residuos de fabricación digital  
-**Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
-**Estado actual:** Etapa de comprensión, diagnóstico y análisis de alternativas  
-**Última sesión registrada:** S10 - 15.10.2026
+> **Desafío 05 · Sostenibilidad**
+> Circularidad y manejo de residuos de fabricación digital en el Lab881 de Providencia.
 
 <p align="center">
-  <img src="./imagenes/S02/foto_equipo.jpg" alt="Fotografía grupal del equipo EcoLab" width="700">
+  <img src="./imagenes/S02/foto_equipo.jpg" alt="Equipo EcoFab Lab" width="700">
 </p>
 
-<p align="center"><em>Equipo EcoFab.</em></p>
+<p align="center"><em>Equipo EcoFab Lab · Capstone Intermedio 2026</em></p>
+
+## 📚 Índice de sesiones
+
+Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, evidencias y próximos pasos.
+
+| Registro | Tema |
+|---|---|
+| [📘 S02 · Identidad del equipo y desafío](bitacora/S02.md) | Formación del equipo y acuerdos iniciales |
+| [📘 S03 · Comprensión del problema](bitacora/S03.md) | Mapa conceptual y mapa de empatía |
+| [📘 S04 · Trofeo Mayor](bitacora/S04.md) | Actividad y primeras posibilidades |
+| [📘 S05 · Primera presentación](bitacora/S05.md) | Presentación evaluada de avances |
+| [📘 S06 · Semana de receso](bitacora/S06.md) | Pausa académica y planificación |
+| [📘 S07 · Visita al Hub Providencia](bitacora/S07.md) | Levantamiento de datos y observaciones |
+| [📘 S08 · Análisis y viabilidad](bitacora/S08.md) | Reflexión a partir de los datos |
+| [📘 S09 · Consultas a la contraparte](bitacora/S09.md) | Preguntas y dudas pendientes |
+| [📘 S10 · Posibles soluciones](bitacora/S10.md) | Lluvia de ideas y selección inicial |
+
+
 ---
 
-## Descripción
+## 🌱 Sobre el proyecto
 
-Nuestro proyecto aborda el Desafío 05 de Sostenibilidad, centrado en la circularidad y el manejo de residuos generados por procesos de fabricación digital en el Lab881 de Providencia.
+**Equipo:** EcoFab Lab  
+**Asignatura:** Capstone Intermedio 2026  
+**Desafío:** 05 | Sostenibilidad - Circularidad y manejo de residuos de fabricación digital  
+**Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
+**Etapa actual:** Comprensión, diagnóstico y análisis de alternativas  
+**Última sesión registrada:** S10 · 15.10.2026
 
-Actualmente, nuestro equipo busca comprender cómo se generan y gestionan los residuos del laboratorio, identificando aquellos flujos que presentan mayores dificultades y que podrían representar una oportunidad de mejora.
+Nuestro proyecto aborda la circularidad y el manejo de residuos generados por procesos de fabricación digital en el Lab881 de Providencia.
+
+Buscamos comprender cómo se generan y gestionan los residuos del laboratorio, identificando aquellos flujos que presentan mayores dificultades y que podrían representar una oportunidad de mejora.
 
 Inicialmente, el análisis se ha enfocado en los residuos asociados a la impresión 3D con resina y a la cortadora láser, sin descartar otros flujos que puedan resultar relevantes durante el diagnóstico.
 
@@ -29,33 +49,20 @@ Durante las últimas sesiones, la continuidad de las actividades académicas se 
 
 La intención es seleccionar una alternativa técnicamente viable, fundamentada en evidencia y que contribuya a mejorar la gestión de un flujo específico de residuos del Lab881.
 
----
+## 👥 Equipo
 
-## Equipo
-
-| Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
+| Integrante | Carrera o especialidad | Rol inicial | GitHub |
 |---|---|---|---|
 | José Obrecht Egaña | Ingeniería Civil Industrial | Coordinación y seguimiento | [@JoseObrecht123](https://github.com/JoseObrecht123) |
 | Marco Díaz Estrada | Ingeniería Civil en Computación e Informática | Investigación y diagnóstico | [@marcodiazestrada1-stack](https://github.com/marcodiazestrada1-stack) |
 | Piero Valdivia Meneses | Ingeniería Civil en Computación e Informática | Diseño y prototipado | [@piierv](https://github.com/piierv) |
 | Paulo García Arce | Ingeniería Civil en Computación e Informática | Documentación y análisis | [@yelol123](https://github.com/yelol123) |
 
----
+### Valores del equipo
 
-## Valores del equipo
+Respeto · Responsabilidad · Comunicación · Compromiso · Colaboración · Proactividad · Creatividad · Sostenibilidad
 
-- Respeto
-- Responsabilidad
-- Comunicación
-- Compromiso
-- Colaboración
-- Proactividad
-- Creatividad
-- Sostenibilidad
-
----
-
-## Normas de funcionamiento
+### Normas de funcionamiento
 
 1. Mantener una comunicación constante entre los integrantes.
 2. Cumplir las tareas y plazos acordados por el equipo.
@@ -68,17 +75,13 @@ La intención es seleccionar una alternativa técnicamente viable, fundamentada 
 9. Si no se alcanza un acuerdo, solicitar orientación al docente.
 10. Priorizar el objetivo común por sobre las tareas individuales.
 
----
+## ♻️ Desafío
 
-# Desafío
-
-## Pregunta orientadora
+### Pregunta orientadora
 
 > ¿Cómo podríamos mejorar la gestión de los residuos generados por los procesos de fabricación digital del Lab881, especialmente aquellos asociados a la impresión 3D con resina y a la cortadora láser?
 
----
-
-## Lo que sabemos actualmente
+### Lo que sabemos actualmente
 
 - La fabricación digital genera distintos tipos de residuos, como piezas defectuosas, soportes, materiales sobrantes y restos asociados a los procesos de producción.
 - Durante la visita al Hub Providencia se identificó que el PLA representa una parte importante de los residuos de impresión 3D y que su gestión debe analizarse dentro del diagnóstico.
@@ -87,24 +90,18 @@ La intención es seleccionar una alternativa técnicamente viable, fundamentada 
 - La selección del flujo prioritario debe basarse en evidencia y no solamente en supuestos iniciales.
 - La factibilidad de cualquier alternativa dependerá de las condiciones técnicas, económicas y de seguridad del laboratorio.
 
----
-
-## Lo que necesitamos investigar
+### Lo que necesitamos investigar
 
 - ¿Qué flujo representa actualmente la mayor dificultad de gestión?
-- ¿Qué cantidad de residuos se genera?
-- ¿Con qué frecuencia se generan?
-- ¿Cómo se separan actualmente?
-- ¿Cómo y dónde se almacenan?
-- ¿Quién se encarga actualmente de su manejo?
+- ¿Qué cantidad de residuos se genera y con qué frecuencia?
+- ¿Cómo se separan y dónde se almacenan actualmente?
+- ¿Quién se encarga de su manejo?
 - ¿Qué residuos pueden ser reutilizados o valorizados?
 - ¿Qué restricciones de seguridad existen?
 - ¿Qué alternativas de gestión existen actualmente?
 - ¿Qué recursos y condiciones serían necesarios para implementar una mejora?
 
----
-
-## Definición actual del desafío
+### Definición actual del desafío
 
 Como equipo EcoFab Lab abordaremos la gestión de residuos derivados de procesos de fabricación digital del Lab881.
 
@@ -112,11 +109,9 @@ La primera parte del proyecto se ha centrado en comprender el problema, reconoce
 
 Posteriormente, se seleccionará una alternativa específica que pueda evaluarse mediante criterios de viabilidad técnica, seguridad, sostenibilidad y potencial de mejora.
 
----
+## 🧑‍🤝‍🧑 Usuarios y actores
 
-# Usuarios y actores
-
-## Usuario principal inicial
+### Usuario principal inicial
 
 **Equipo operador del Lab881.**
 
@@ -124,7 +119,7 @@ Este usuario fue seleccionado durante la elaboración del mapa de empatía debid
 
 Comprender su experiencia es importante para identificar dificultades prácticas, procedimientos existentes y oportunidades de mejora que puedan incorporarse al proyecto.
 
-## Otros usuarios y actores
+### Otros usuarios y actores
 
 - Personas usuarias del Lab881.
 - Municipalidad de Providencia / Hub Providencia.
@@ -132,56 +127,42 @@ Comprender su experiencia es importante para identificar dificultades prácticas
 - Proveedores de materiales.
 - Comunidad vinculada a actividades de fabricación digital.
 
----
-
-# Objetivo SMART del equipo
+## 🎯 Objetivo del equipo
 
 Diseñar y validar, antes de la entrega final del proyecto, una alternativa técnicamente viable para reducir la generación o mejorar la segregación, reutilización, valorización o gestión segura de un flujo de residuos de fabricación digital del Lab881, utilizando un diagnóstico cuantificado y desarrollando un prototipo, procedimiento o piloto que permita demostrar su potencial de mejora respecto de la situación actual.
 
----
+## 🤝 Compromisos individuales
 
-# Compromisos individuales
-
-| Integrante | Compromiso SMART |
+| Integrante | Compromiso |
 |---|---|
 | José Obrecht Egaña | Coordinar el trabajo del equipo, registrar acuerdos, responsables y fechas, y realizar seguimiento de los compromisos durante las etapas del proyecto. |
 | Marco Díaz Estrada | Investigar y caracterizar el flujo de residuos seleccionado, recopilando antecedentes y apoyando la elaboración de un diagnóstico cuantificado. |
 | Piero Valdivia Meneses | Participar en la generación y selección de alternativas y desarrollar, junto al equipo, un prototipo o procedimiento que permita evaluar la factibilidad técnica de la propuesta. |
 | Paulo García Arce | Organizar las evidencias, datos, fotografías y resultados del proyecto, manteniendo actualizada la bitácora y apoyando el análisis de la situación actual frente a la alternativa propuesta. |
 
----
+## 📈 Avance del proyecto
 
-# Avance del proyecto
-
-| Sesión | Fecha | Resumen semanal | Estado |
+| Sesión | Fecha | Resumen | Estado |
 |---|---|---|---|
-| S02 | 20.08.2026 | Formación del equipo, distribución de roles y definición inicial del desafío. | Completado |
-| S03 | 27.08.2026 | Elaboración del mapa conceptual y del mapa de empatía para comprender el problema y sus actores. | Completado |
-| S04 | 03.09.2026 | Actividad Trofeo Mayor y exploración de primeras posibilidades de solución. | Registrado en bitácora |
-| S05 | 10.09.2026 | Presentación evaluada de los avances iniciales del proyecto. | Registrado en bitácora |
-| S06 | 17.09.2026 | Receso académico por las celebraciones de Fiestas Patrias. | Receso académico |
-| S07 | 24.09.2026 | Visita al Hub Providencia para conocer los residuos generados y las prácticas actuales de gestión. | Registrado en bitácora |
-| S08 | 01.10.2026 | Revisión de antecedentes y análisis de la viabilidad de posibles alternativas. | Registrado en bitácora |
-| S09 | 08.10.2026 | Organización de consultas pendientes a la contraparte, en un contexto de paro universitario. | Afectado por paro universitario |
-| S10 | 15.10.2026 | Continuidad del paro universitario y seguimiento de las tareas pendientes. | Afectado por paro universitario |
+| [S02](bitacora/S02.md) | 20.08.2026 | Formación del equipo, distribución de roles y definición inicial del desafío. | Completado |
+| [S03](bitacora/S03.md) | 27.08.2026 | Mapa conceptual y mapa de empatía para comprender el problema y sus actores. | Completado |
+| [S04](bitacora/S04.md) | 03.09.2026 | Actividad Trofeo Mayor y exploración de primeras posibilidades de solución. | Registrado |
+| [S05](bitacora/S05.md) | 10.09.2026 | Presentación evaluada de los avances iniciales del proyecto. | Registrado |
+| [S06](bitacora/S06.md) | 17.09.2026 | Receso académico por las celebraciones de Fiestas Patrias. | Receso académico |
+| [S07](bitacora/S07.md) | 24.09.2026 | Visita al Hub Providencia y levantamiento de información en terreno. | Registrado |
+| [S08](bitacora/S08.md) | 01.10.2026 | Revisión de antecedentes y análisis de viabilidad de posibles alternativas. | Registrado |
+| [S09](bitacora/S09.md) | 08.10.2026 | Organización de consultas pendientes a la contraparte. | Afectado por paro universitario |
+| [S10](bitacora/S10.md) | 15.10.2026 | Lluvia de ideas y elección de posibles soluciones. | Registrado |
+
 
 ---
 
-# Índice de la bitácora
-
-- [S02 - Identidad del equipo y desafío](bitacora/S02.md)
-- [S03 - Comprensión del problema: mapa conceptual y mapa de empatía](bitacora/S03.md)
-- [S04 - Trofeo Mayor y primeras posibilidades](bitacora/S04.md)
-- [S05 - Primera presentación con nota](bitacora/S05.md)
-- [S06 - Semana de receso: pausa y planificación (Fiestas Patrias)](bitacora/S06.md)
-- [S07 - Visita al Hub Providencia: levantamiento de datos en terreno](bitacora/S07.md)
-- [S08 - Reflexión con los datos: análisis y viabilidad de la solución](bitacora/S08.md)
-- [S09 - Nuevas dudas y consultas a la contraparte (Hub Providencia)](bitacora/S09.md)
-- [S10 - Continuidad del paro universitario](bitacora/S10.md)
-
----
 ## Uso y licencia
 
 Este proyecto fue desarrollado por el equipo EcoFab Lab para fines académicos en la asignatura Capstone Intermedio 2026 de la Universidad Mayor.
 
 **Licencia:** Por definir.
+
+---
+
+<p align="center"><sub>EcoFab Lab · Capstone Intermedio 2026</sub></p>
