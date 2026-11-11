@@ -28,16 +28,6 @@ Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, ev
 
 ---
 
-## 🧭 Navegación rápida
-
-| Ir a | Contenido |
-|---|---|
-| [Proyecto](#sobre-el-proyecto) | Contexto, propósito y desafío |
-| [Equipo](#equipo) | Integrantes, roles y acuerdos |
-| [Objetivo](#objetivo-del-equipo) | Meta general del proyecto |
-| [Avance](#avance-del-proyecto) | Estado de las sesiones |
-| [Bitácora](#bitácora-por-sesión) | Acceso directo a cada registro |
-
 ## 🌱 Sobre el proyecto
 
 **Equipo:** EcoFab Lab  
