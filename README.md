@@ -9,6 +9,23 @@
 
 <p align="center"><em>Equipo EcoFab Lab · Capstone Intermedio 2026</em></p>
 
+## 📚 Índice de sesiones
+
+Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, evidencias y próximos pasos.
+
+| Registro | Tema |
+|---|---|
+| [📘 S02 · Identidad del equipo y desafío](bitacora/S02.md) | Formación del equipo y acuerdos iniciales |
+| [📘 S03 · Comprensión del problema](bitacora/S03.md) | Mapa conceptual y mapa de empatía |
+| [📘 S04 · Trofeo Mayor](bitacora/S04.md) | Actividad y primeras posibilidades |
+| [📘 S05 · Primera presentación](bitacora/S05.md) | Presentación evaluada de avances |
+| [📘 S06 · Semana de receso](bitacora/S06.md) | Pausa académica y planificación |
+| [📘 S07 · Visita al Hub Providencia](bitacora/S07.md) | Levantamiento de datos y observaciones |
+| [📘 S08 · Análisis y viabilidad](bitacora/S08.md) | Reflexión a partir de los datos |
+| [📘 S09 · Consultas a la contraparte](bitacora/S09.md) | Preguntas y dudas pendientes |
+| [📘 S10 · Posibles soluciones](bitacora/S10.md) | Lluvia de ideas y selección inicial |
+
+
 ---
 
 ## 🧭 Navegación rápida
@@ -21,7 +38,7 @@
 | [Avance](#avance-del-proyecto) | Estado de las sesiones |
 | [Bitácora](#bitácora-por-sesión) | Acceso directo a cada registro |
 
-## Sobre el proyecto
+## 🌱 Sobre el proyecto
 
 **Equipo:** EcoFab Lab  
 **Asignatura:** Capstone Intermedio 2026  
@@ -42,7 +59,7 @@ Durante las últimas sesiones, la continuidad de las actividades académicas se 
 
 La intención es seleccionar una alternativa técnicamente viable, fundamentada en evidencia y que contribuya a mejorar la gestión de un flujo específico de residuos del Lab881.
 
-## Equipo
+## 👥 Equipo
 
 | Integrante | Carrera o especialidad | Rol inicial | GitHub |
 |---|---|---|---|
@@ -68,7 +85,7 @@ Respeto · Responsabilidad · Comunicación · Compromiso · Colaboración · Pr
 9. Si no se alcanza un acuerdo, solicitar orientación al docente.
 10. Priorizar el objetivo común por sobre las tareas individuales.
 
-## Desafío
+## ♻️ Desafío
 
 ### Pregunta orientadora
 
@@ -102,7 +119,7 @@ La primera parte del proyecto se ha centrado en comprender el problema, reconoce
 
 Posteriormente, se seleccionará una alternativa específica que pueda evaluarse mediante criterios de viabilidad técnica, seguridad, sostenibilidad y potencial de mejora.
 
-## Usuarios y actores
+## 🧑‍🤝‍🧑 Usuarios y actores
 
 ### Usuario principal inicial
 
@@ -120,11 +137,11 @@ Comprender su experiencia es importante para identificar dificultades prácticas
 - Proveedores de materiales.
 - Comunidad vinculada a actividades de fabricación digital.
 
-## Objetivo del equipo
+## 🎯 Objetivo del equipo
 
 Diseñar y validar, antes de la entrega final del proyecto, una alternativa técnicamente viable para reducir la generación o mejorar la segregación, reutilización, valorización o gestión segura de un flujo de residuos de fabricación digital del Lab881, utilizando un diagnóstico cuantificado y desarrollando un prototipo, procedimiento o piloto que permita demostrar su potencial de mejora respecto de la situación actual.
 
-## Compromisos individuales
+## 🤝 Compromisos individuales
 
 | Integrante | Compromiso |
 |---|---|
@@ -133,7 +150,7 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 | Piero Valdivia Meneses | Participar en la generación y selección de alternativas y desarrollar, junto al equipo, un prototipo o procedimiento que permita evaluar la factibilidad técnica de la propuesta. |
 | Paulo García Arce | Organizar las evidencias, datos, fotografías y resultados del proyecto, manteniendo actualizada la bitácora y apoyando el análisis de la situación actual frente a la alternativa propuesta. |
 
-## Avance del proyecto
+## 📈 Avance del proyecto
 
 | Sesión | Fecha | Resumen | Estado |
 |---|---|---|---|
@@ -147,21 +164,6 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 | [S09](bitacora/S09.md) | 08.10.2026 | Organización de consultas pendientes a la contraparte. | Afectado por paro universitario |
 | [S10](bitacora/S10.md) | 15.10.2026 | Lluvia de ideas y elección de posibles soluciones. | Registrado |
 
-## Bitácora por sesión
-
-Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, evidencias y próximos pasos.
-
-| Registro | Tema |
-|---|---|
-| [📘 S02 · Identidad del equipo y desafío](bitacora/S02.md) | Formación del equipo y acuerdos iniciales |
-| [📘 S03 · Comprensión del problema](bitacora/S03.md) | Mapa conceptual y mapa de empatía |
-| [📘 S04 · Trofeo Mayor](bitacora/S04.md) | Actividad y primeras posibilidades |
-| [📘 S05 · Primera presentación](bitacora/S05.md) | Presentación evaluada de avances |
-| [📘 S06 · Semana de receso](bitacora/S06.md) | Pausa académica y planificación |
-| [📘 S07 · Visita al Hub Providencia](bitacora/S07.md) | Levantamiento de datos y observaciones |
-| [📘 S08 · Análisis y viabilidad](bitacora/S08.md) | Reflexión a partir de los datos |
-| [📘 S09 · Consultas a la contraparte](bitacora/S09.md) | Preguntas y dudas pendientes |
-| [📘 S10 · Posibles soluciones](bitacora/S10.md) | Lluvia de ideas y selección inicial |
 
 ---
 
