@@ -36,7 +36,7 @@ Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, ev
 **Desafío:** 05 | Sostenibilidad - Circularidad y manejo de residuos de fabricación digital  
 **Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
 **Etapa actual:** Comprensión, diagnóstico y análisis de alternativas  
-**Última sesión registrada:** S11 · 05.11.2026
+**Última sesión registrada:** S12 · Noviembre 2026
 
 Nuestro proyecto aborda la circularidad y el manejo de residuos generados por procesos de fabricación digital en el Lab881 de Providencia.
 
