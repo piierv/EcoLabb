@@ -23,7 +23,7 @@ Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, ev
 | [📘 S07 · Visita al Hub Providencia](bitacora/S07.md) | Levantamiento de datos y observaciones |
 | [📘 S08 · Análisis y viabilidad](bitacora/S08.md) | Reflexión a partir de los datos |
 | [📘 S09 · Consultas a la contraparte](bitacora/S09.md) | Preguntas y dudas pendientes |
-| [📘 S10 · Posibles soluciones](bitacora/S10.md) | Lluvia de ideas y selección inicial |
+| [📘 S10 · Selección de la solución](bitacora/S10.md) | Estaciones ecológicas para separar y registrar residuos |\n| [📘 S11 · Desafío del Marshmallow](bitacora/S11.md) | Prototipado rápido, construcción y trabajo en equipo |
 
 
 ---
@@ -35,7 +35,7 @@ Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, ev
 **Desafío:** 05 | Sostenibilidad - Circularidad y manejo de residuos de fabricación digital  
 **Contraparte:** Municipalidad de Providencia / Hub Providencia - Lab881  
 **Etapa actual:** Comprensión, diagnóstico y análisis de alternativas  
-**Última sesión registrada:** S10 · 15.10.2026
+**Última sesión registrada:** S11 · 05.11.2026
 
 Nuestro proyecto aborda la circularidad y el manejo de residuos generados por procesos de fabricación digital en el Lab881 de Providencia.
 
@@ -152,7 +152,7 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 | [S07](bitacora/S07.md) | 24.09.2026 | Visita al Hub Providencia y levantamiento de información en terreno. | Registrado |
 | [S08](bitacora/S08.md) | 01.10.2026 | Revisión de antecedentes y análisis de viabilidad de posibles alternativas. | Registrado |
 | [S09](bitacora/S09.md) | 08.10.2026 | Organización de consultas pendientes a la contraparte. | Afectado por paro universitario |
-| [S10](bitacora/S10.md) | 15.10.2026 | Lluvia de ideas y elección de posibles soluciones. | Registrado |
+| [S10](bitacora/S10.md) | 15.10.2026 | Selección de estaciones ecológicas para separar y registrar residuos. | Registrado |\n| [S11](bitacora/S11.md) | 05.11.2026 | Desafío del Marshmallow: prototipado rápido y colaboración. | Registrado |
 
 
 ---
