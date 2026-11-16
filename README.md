@@ -23,7 +23,8 @@ Selecciona una sesión para consultar su objetivo, actividades, aprendizajes, ev
 | [📘 S07 · Visita al Hub Providencia](bitacora/S07.md) | Levantamiento de datos y observaciones |
 | [📘 S08 · Análisis y viabilidad](bitacora/S08.md) | Reflexión a partir de los datos |
 | [📘 S09 · Consultas a la contraparte](bitacora/S09.md) | Preguntas y dudas pendientes |
-| [📘 S10 · Selección de la solución](bitacora/S10.md) | Estaciones ecológicas para separar y registrar residuos |\n| [📘 S11 · Desafío del Marshmallow](bitacora/S11.md) | Prototipado rápido, construcción y trabajo en equipo |
+| [📘 S10 · Selección de la solución](bitacora/S10.md) | Estaciones ecológicas para separar y registrar residuos |
+| [📘 S11 · Desafío del Marshmallow](bitacora/S11.md) | Prototipado rápido, construcción y trabajo en equipo |\n| [♻️ Avances de la propuesta](bitacora/AVANCES_PROPUESTA.md) | Aplicación web, panel del operador y contenedores inteligentes |
 
 
 ---
@@ -152,7 +153,8 @@ Diseñar y validar, antes de la entrega final del proyecto, una alternativa téc
 | [S07](bitacora/S07.md) | 24.09.2026 | Visita al Hub Providencia y levantamiento de información en terreno. | Registrado |
 | [S08](bitacora/S08.md) | 01.10.2026 | Revisión de antecedentes y análisis de viabilidad de posibles alternativas. | Registrado |
 | [S09](bitacora/S09.md) | 08.10.2026 | Organización de consultas pendientes a la contraparte. | Afectado por paro universitario |
-| [S10](bitacora/S10.md) | 15.10.2026 | Selección de estaciones ecológicas para separar y registrar residuos. | Registrado |\n| [S11](bitacora/S11.md) | 05.11.2026 | Desafío del Marshmallow: prototipado rápido y colaboración. | Registrado |
+| [S10](bitacora/S10.md) | 15.10.2026 | Selección de estaciones ecológicas para separar y registrar residuos. | Registrado |
+| [S11](bitacora/S11.md) | 05.11.2026 | Desafío del Marshmallow: prototipado rápido y colaboración. | Registrado |\n| [Avances](bitacora/AVANCES_PROPUESTA.md) | Noviembre 2026 | Estado del prototipo web y proyección de contenedores inteligentes. | En desarrollo |
 
 
 ---
